@@ -247,7 +247,7 @@ function createGallery(database, galleryEl, filter = 0) {
 
 }
 
-const apiUrl = "https://40.114.37.14";
+const apiUrl = "https://berj02.eastus.cloudapp.azure.com";
 
 const carouselGallery = document.querySelectorAll(".carousel-gallery");
 
